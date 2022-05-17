@@ -1,0 +1,45 @@
+body{
+  background: #eae2e2;
+}
+
+form {
+  display: grid;
+  width: 50%;
+  margin: 0 auto;
+  max-width: 500px;
+  min-width: 250px;
+}
+.form-message{
+  width: 400px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+input{
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+textarea{
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: none;
+}
+.success{
+  background: #00ff00;
+  color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+}
+.error{
+  background: #ff0000;
+  color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+}
