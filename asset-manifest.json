@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-bible-react-2/static/css/main.dcce531d.css",
+    "main.js": "/my-bible-react-2/static/js/main.3cf2093b.js",
+    "static/media/Questrial-Regular.ttf": "/my-bible-react-2/static/media/Questrial-Regular.96dd668fc36d87af7f89.ttf",
+    "static/media/Michroma-Regular.ttf": "/my-bible-react-2/static/media/Michroma-Regular.c12a12d1198168c85097.ttf",
+    "index.html": "/my-bible-react-2/index.html",
+    "main.dcce531d.css.map": "/my-bible-react-2/static/css/main.dcce531d.css.map",
+    "main.3cf2093b.js.map": "/my-bible-react-2/static/js/main.3cf2093b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcce531d.css",
+    "static/js/main.3cf2093b.js"
+  ]
+}
